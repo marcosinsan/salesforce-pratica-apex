@@ -15,4 +15,12 @@ novaLista.set(1, 'Ciclano');
 
 System.debug(novaLista[1]);
 
+// 2 -> outra forma de declara uma lista em apex
+List<String> cidades = new List<String>{
+    'NY',
+    'LA',
+    'SP'
+};
+
+System.debug('Lista de cidades --> ' + cidades);
 
