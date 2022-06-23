@@ -15,4 +15,4 @@ Métodos mais comuns
 List<String> listaDeMetodos = new List<String>();
 
 // Esta declaração daria nula com saida de depuração.
-System.debug('Valor da LIsta: ' + listaDeMetodos);
+System.debug('Valor da Lista: ' + listaDeMetodos);
